@@ -1,0 +1,5 @@
+C:\Users\COMPAQ\Desktop\Gitproject\Pattens\Pattens\bin\Debug\Pattens.exe.config
+C:\Users\COMPAQ\Desktop\Gitproject\Pattens\Pattens\bin\Debug\Pattens.exe
+C:\Users\COMPAQ\Desktop\Gitproject\Pattens\Pattens\bin\Debug\Pattens.pdb
+C:\Users\COMPAQ\Desktop\Gitproject\Pattens\Pattens\obj\Debug\Pattens.exe
+C:\Users\COMPAQ\Desktop\Gitproject\Pattens\Pattens\obj\Debug\Pattens.pdb
